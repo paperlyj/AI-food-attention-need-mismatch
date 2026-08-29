@@ -1,0 +1,109 @@
+﻿group,need_variable,median_score,group_type
+High income,food_system_need_index_main_min4,0.4482880589792331,income_group
+Low income,food_system_need_index_main_min4,0.5784944884896861,income_group
+Lower middle income,food_system_need_index_main_min4,0.5384060507486226,income_group
+Not classified,food_system_need_index_main_min4,0.5487425083122717,income_group
+Upper middle income,food_system_need_index_main_min4,0.5238357195099547,income_group
+High income,need_social_score,0.3707604131507543,income_group
+Low income,need_social_score,0.7003194347146733,income_group
+Lower middle income,need_social_score,0.6240512588156876,income_group
+Not classified,need_social_score,0.6148648798687582,income_group
+Upper middle income,need_social_score,0.49995930552734247,income_group
+High income,need_environmental_score,0.48904124616059674,income_group
+Low income,need_environmental_score,0.5760860026327337,income_group
+Lower middle income,need_environmental_score,0.5107667836770513,income_group
+Not classified,need_environmental_score,0.5384159719175077,income_group
+Upper middle income,need_environmental_score,0.527906976744186,income_group
+High income,need_resilience_score,0.547486033519553,income_group
+Low income,need_resilience_score,0.37988826815642457,income_group
+Lower middle income,need_resilience_score,0.5307262569832403,income_group
+Not classified,need_resilience_score,0.4371508379888268,income_group
+Upper middle income,need_resilience_score,0.5698324022346368,income_group
+High income,need_food_security_score,0.1893491124260355,income_group
+Low income,need_food_security_score,0.8964497041420119,income_group
+Lower middle income,need_food_security_score,0.7100591715976331,income_group
+Not classified,need_food_security_score,0.6834319526627219,income_group
+Upper middle income,need_food_security_score,0.4437869822485207,income_group
+High income,need_nutrition_score,0.4953579819866858,income_group
+Low income,need_nutrition_score,0.5206728886568333,income_group
+Lower middle income,need_nutrition_score,0.5161736392115912,income_group
+Not classified,need_nutrition_score,0.5462978070747944,income_group
+Upper middle income,need_nutrition_score,0.490503850672236,income_group
+High income,need_food_waste_score,0.3441860465116279,income_group
+Low income,need_food_waste_score,0.7465116279069768,income_group
+Lower middle income,need_food_waste_score,0.5720930232558139,income_group
+Not classified,need_food_waste_score,0.48720930232558135,income_group
+Upper middle income,need_food_waste_score,0.627906976744186,income_group
+High income,need_sustainability_score,0.6155660377358491,income_group
+Low income,need_sustainability_score,0.4056603773584906,income_group
+Lower middle income,need_sustainability_score,0.2971698113207547,income_group
+Not classified,need_sustainability_score,0.5896226415094339,income_group
+Upper middle income,need_sustainability_score,0.5047169811320755,income_group
+High income,need_supply_vulnerability_score,0.547486033519553,income_group
+Low income,need_supply_vulnerability_score,0.37988826815642457,income_group
+Lower middle income,need_supply_vulnerability_score,0.5307262569832403,income_group
+Not classified,need_supply_vulnerability_score,0.4371508379888268,income_group
+Upper middle income,need_supply_vulnerability_score,0.5698324022346368,income_group
+East Asia & Pacific,food_system_need_index_main_min4,0.4662510103208198,region
+Europe & Central Asia,food_system_need_index_main_min4,0.39232819104538674,region
+Latin America & Caribbean,food_system_need_index_main_min4,0.594918065874967,region
+Middle East & North Africa,food_system_need_index_main_min4,0.6105247796390465,region
+North America,food_system_need_index_main_min4,0.41984688315215285,region
+South Asia,food_system_need_index_main_min4,0.35422737623553474,region
+Sub-Saharan Africa,food_system_need_index_main_min4,0.5630749568524189,region
+East Asia & Pacific,need_social_score,0.4831790507558069,region
+Europe & Central Asia,need_social_score,0.31940859876620925,region
+Latin America & Caribbean,need_social_score,0.5291194536764632,region
+Middle East & North Africa,need_social_score,0.6189907828709,region
+North America,need_social_score,0.4486467856869768,region
+South Asia,need_social_score,0.43125363981404313,region
+Sub-Saharan Africa,need_social_score,0.6640632422034604,region
+East Asia & Pacific,need_environmental_score,0.4087209302325581,region
+Europe & Central Asia,need_environmental_score,0.4584028082492321,region
+Latin America & Caribbean,need_environmental_score,0.524489907854322,region
+Middle East & North Africa,need_environmental_score,0.5996489688459852,region
+North America,need_environmental_score,0.49848617814831064,region
+South Asia,need_environmental_score,0.20665313734093896,region
+Sub-Saharan Africa,need_environmental_score,0.5476908731899957,region
+East Asia & Pacific,need_resilience_score,0.6871508379888268,region
+Europe & Central Asia,need_resilience_score,0.2988826815642458,region
+Latin America & Caribbean,need_resilience_score,0.6396648044692738,region
+Middle East & North Africa,need_resilience_score,0.782122905027933,region
+North America,need_resilience_score,0.1005586592178771,region
+South Asia,need_resilience_score,0.2905027932960894,region
+Sub-Saharan Africa,need_resilience_score,0.4804469273743016,region
+East Asia & Pacific,need_food_security_score,0.4674556213017751,region
+Europe & Central Asia,need_food_security_score,0.1893491124260355,region
+Latin America & Caribbean,need_food_security_score,0.5310650887573964,region
+Middle East & North Africa,need_food_security_score,0.5946745562130178,region
+North America,need_food_security_score,0.1893491124260355,region
+South Asia,need_food_security_score,0.6390532544378698,region
+Sub-Saharan Africa,need_food_security_score,0.8313609467455622,region
+East Asia & Pacific,need_nutrition_score,0.48740781229604485,region
+Europe & Central Asia,need_nutrition_score,0.4308510638297872,region
+Latin America & Caribbean,need_nutrition_score,0.5347539485706827,region
+Middle East & North Africa,need_nutrition_score,0.6306617934995431,region
+North America,need_nutrition_score,0.707944458947918,region
+South Asia,need_nutrition_score,0.3738415350476439,region
+Sub-Saharan Africa,need_nutrition_score,0.5008525323064874,region
+East Asia & Pacific,need_food_waste_score,0.2697674418604651,region
+Europe & Central Asia,need_food_waste_score,0.2906976744186046,region
+Latin America & Caribbean,need_food_waste_score,0.5569767441860465,region
+Middle East & North Africa,need_food_waste_score,0.8837209302325582,region
+North America,need_food_waste_score,0.2906976744186046,region
+South Asia,need_food_waste_score,0.29302325581395344,region
+Sub-Saharan Africa,need_food_waste_score,0.627906976744186,region
+East Asia & Pacific,need_sustainability_score,0.419811320754717,region
+Europe & Central Asia,need_sustainability_score,0.625,region
+Latin America & Caribbean,need_sustainability_score,0.5471698113207547,region
+Middle East & North Africa,need_sustainability_score,0.2924528301886792,region
+North America,need_sustainability_score,0.7830188679245284,region
+South Asia,need_sustainability_score,0.15094339622641506,region
+Sub-Saharan Africa,need_sustainability_score,0.410377358490566,region
+East Asia & Pacific,need_supply_vulnerability_score,0.6871508379888268,region
+Europe & Central Asia,need_supply_vulnerability_score,0.2988826815642458,region
+Latin America & Caribbean,need_supply_vulnerability_score,0.6396648044692738,region
+Middle East & North Africa,need_supply_vulnerability_score,0.782122905027933,region
+North America,need_supply_vulnerability_score,0.1005586592178771,region
+South Asia,need_supply_vulnerability_score,0.2905027932960894,region
+Sub-Saharan Africa,need_supply_vulnerability_score,0.4804469273743016,region
